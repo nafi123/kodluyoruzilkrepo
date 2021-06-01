@@ -1,7 +1,7 @@
 # kodluyoruz ilk repo
 -- bu repo [kodluyoruz](https://www.kodluyoruz.org)  için oluşturduğum ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
-[](kodluyoruzfoto)
+![github](https://github.com/nafi123/kodluyoruzilkrepo/blob/main/kodluyoruzfoto.png)
 
 ## Installation
 -- Öncelikle projeyi clonelayın(Buraya sizin reponuzdan aldığınız link gelecek)
