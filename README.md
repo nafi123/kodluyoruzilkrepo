@@ -1,10 +1,10 @@
 # kodluyoruz ilk repo
--- bu repo [kodluyoruz](https://www.kodluyoruz.org)  için oluşturduğum ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor
+bu repo [kodluyoruz](https://www.kodluyoruz.org)  için oluşturduğum ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
 ![github](https://github.com/nafi123/kodluyoruzilkrepo/blob/main/kodluyoruzfoto.png)
 
 ## Installation
--- Öncelikle projeyi clonelayın(Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın(Buraya sizin reponuzdan aldığınız link gelecek)
 ```bash
 https://github.com/nafi123/kodluyoruzilkrepo.git
 ```
